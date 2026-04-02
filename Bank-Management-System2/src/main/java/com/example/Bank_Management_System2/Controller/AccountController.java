@@ -16,7 +16,6 @@ public class AccountController {
     @Autowired
     private AccountService accountService;
 
-
     @GetMapping("/{customerId}")
     public List<Account> findByCustomerId(@PathVariable Long customerId) {
         return accountService.findByCustomerId(customerId);
