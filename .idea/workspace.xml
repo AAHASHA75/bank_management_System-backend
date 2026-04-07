@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9467c2e7-7845-442d-ba78-b857c47e6655" name="Changes" comment="for deployment last" />
+    <list default="true" id="9467c2e7-7845-442d-ba78-b857c47e6655" name="Changes" comment="for deployment last1">
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -91,11 +93,20 @@
       <option name="project" value="LOCAL" />
       <updated>1775552391573</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="for deployment last1">
+      <option name="closed" value="true" />
+      <created>1775552509678</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1775552509678</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="for deployment last" />
-    <option name="LAST_COMMIT_MESSAGE" value="for deployment last" />
+    <MESSAGE value="for deployment last1" />
+    <option name="LAST_COMMIT_MESSAGE" value="for deployment last1" />
   </component>
 </project>
