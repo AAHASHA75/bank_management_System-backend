@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9467c2e7-7845-442d-ba78-b857c47e6655" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/repo/.idea/PROJECTEDITER.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Bank-Management-System2/repo/.idea/PROJECTEDITER.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/repo/src/main/java/com/example/Bank_Management_System2/CorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/Bank-Management-System2/repo/src/main/java/com/example/Bank_Management_System2/CorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/BankManagementSystem2Application.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Controller/AccountController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Controller/AdminController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Controller/CustomerController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Controller/TransactionController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/CorsConfig$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/CorsConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Enum/Status.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Enum/Status.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Enum/Transtype.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Enum/Transtype.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Enum/UserRole.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Enum/UserRole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Exception/AccountException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Exception/CustomerException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Exception/GlobalExceptionHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Exception/TransactionException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Model/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Model/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Model/Admin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Model/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Model/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Model/Loginrequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Model/Transactions.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Model/Transactions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Repository/AccountRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Repository/AccountRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Repository/AdminRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Repository/CustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Repository/TransactionRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Service/AccountService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Service/AdminService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Service/CustomerService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bank-Management-System2/target/classes/com/example/Bank_Management_System2/Service/TransactionService.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AAHASHA75&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AAHASHA75/bank_management_System-backend.git&quot;,
+    &quot;accountId&quot;: &quot;22ab6d33-e06e-45a1-892f-6d0820c5794a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="3C0uVPRAoPNzYCyVQAupq0M17wi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven. [clean].executor": "Run",
+    "Maven. [install].executor": "Run",
+    "Maven. [package].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.BankManagementSystem2Application.executor": "Run",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\OneDrive\Documents\springWorkspace\bank_management_System-backend-for-deploye\Bank-Management-System2\repo" />
+      <recent name="C:\Users\Admin\OneDrive\Documents\springWorkspace\bank_management_System-backend-for-deploye\repo" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+      <command value="mvn install" />
+      <command value="mvn package" />
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9467c2e7-7845-442d-ba78-b857c47e6655" name="Changes" comment="" />
+      <created>1775534831805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1775534831805</updated>
+    </task>
+    <servers />
+  </component>
+</project>
